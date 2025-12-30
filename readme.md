@@ -50,6 +50,8 @@ https://github.com/utterance/utterances
 
 ### [giscus](https://giscus.app/)
 
+https://github.com/giscus/giscus
+
 特点：类似 Utterances，但基于 GitHub Discussions，支持 Markdown 和实时预览。
 
 优点：完全免费，与 GitHub 生态深度集成，适合开发者社区。
