@@ -7,7 +7,7 @@ https://github.com/mikro-orm/nestjs-realworld-example-app
 
 https://github.com/surmon-china/nodepress
 
-## 垃圾邮箱过滤
+## 过滤掉评论、表单和文本垃圾邮件
 
 akismet-api
 https://akismet.com/
