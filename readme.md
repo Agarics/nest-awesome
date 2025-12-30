@@ -2,6 +2,9 @@
 
 https://github.com/mikro-orm/nestjs-realworld-example-app
 
+## mongo数据库
+@typegoose/typegoose[https://typegoose.github.io/]
+
 
 ## cms
 
