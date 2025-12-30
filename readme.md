@@ -11,3 +11,7 @@ https://github.com/surmon-china/nodepress
 
 akismet-api
 https://akismet.com/
+
+## 查询IP地理位置服务
+
+https://ip-api.com/
