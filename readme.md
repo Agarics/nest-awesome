@@ -32,6 +32,8 @@ API请求库[@nestjs/axios](https://github.com/nestjs/axios)
 
 键值对存储高阶库，适配多种存储方案[keyv](https://keyv.org/)
 
+执行Unix shell commands[shelljs](https://github.com/shelljs/shelljs)
+
 ## 成熟的cms方案
 
 [nodepress](https://github.com/surmon-china/nodepress)
